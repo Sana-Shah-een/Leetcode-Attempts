@@ -1,5 +1,6 @@
 # Leetcode-Attempts
-I'll solve Leetocode questions with consistency of 7 days, SQL Questions 1/day, DSA 1/day
+I'll solve Leetocode questions with consistency of 7 days, SQL Questions 1/day, DSA 1/day 
+<br>
 Monday(9 Feb) -> 2 DSA questions + 2 DB questions 
 
 <!---LeetCode Topics Start-->
