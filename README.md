@@ -26,6 +26,7 @@ Tuesday(10 Feb) -> 1 DSA questions + 1 DB questions
 | [0035-search-insert-position](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Tuesday(10 Feb) -> 1 DSA questions + 1 DB questions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
