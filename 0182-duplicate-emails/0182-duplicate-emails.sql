@@ -1,1 +1,1 @@
-SELECT email FROM Person GROUP BY emAIL having COUNT(email) > 1;
+SELECT email FROM Person GROUP BY email having COUNT(email) > 1;
