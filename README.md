@@ -1,9 +1,27 @@
 # Leetcode-Attempts
 I'll solve Leetocode questions with consistency of 7 days, SQL Questions 1/day, DSA 1/day 
 <br>
+1st week of Easy type questions:)
+<br>
 Monday(9 Feb) -> 2 DSA questions + 2 DB questions 
 <br>
-Tuesday(10 Feb) -> 1 DSA questions + 1 DB questions 
+Tuesday(10 Feb) -> 1 DSA question + 1 DB question 
+<br>
+Wednesday(11 Feb) -> 1 DSA question + 1 DB question
+<br>
+Thursday(12 Feb) -> 1 DSA question + 1 DB question
+<br>
+Friday(13 Feb) -> 1 DSA question + 1 DB question
+<br>
+Saturday(14 Feb) -> due to net issue can't solve any question
+<br>
+Sunday(15 Feb) -> 2 DSA questions + 2 DB questions (saturday question)
+
+Alhamdulillah:) finally 7 day challenge done
+
+Now 2nd week of Medium complexity questions chalenge: 
+Monday(16 Feb) ->
+
 
 
 
