@@ -11,9 +11,9 @@ class Solution {
         return result;
     }
 
-    private void backtrack(int[] nums, List<Integer> tempList, List<List<Integer>> result, boolean[] used) {
-        if (tempList.size() == nums.length) {
-            result.add(new ArrayList<>(tempList));
+    private void backtrack(int[] nums, List<Integer> list, List<List<Integer>> result, boolean[] used) {
+        if (list.size() == nums.length) {
+            result.add(new ArrayList<>(list));
             return;
         }
 
@@ -23,9 +23,9 @@ class Solution {
             if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1]) continue;
 
             used[i] = true;
-            tempList.add(nums[i]);
-            backtrack(nums, tempList, result, used);
-            tempList.remove(tempList.size() - 1);
+            list.add(nums[i]);
+            backtrack(nums, list, result, used);
+            list.remove(list.size() - 1);
             used[i] = false;
         }
     }
