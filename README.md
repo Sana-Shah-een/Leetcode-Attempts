@@ -36,6 +36,7 @@ Monday(16 Feb) ->
 | [0180-consecutive-numbers](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0183-customers-who-never-order) |
+| [3482-analyze-organization-hierarchy](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/3482-analyze-organization-hierarchy) |
 ## Array
 |  |
 | ------- |
