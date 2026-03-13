@@ -49,6 +49,7 @@ Monday(16 Feb) ->
 | [0066-plus-one](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0118-pascals-triangle) |
+| [0994-rotting-oranges](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Monday(16 Feb) ->
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0037-sudoku-solver) |
+| [0994-rotting-oranges](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +99,8 @@ Monday(16 Feb) ->
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0002-add-two-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
