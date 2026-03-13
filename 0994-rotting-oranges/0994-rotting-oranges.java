@@ -21,8 +21,8 @@ class Solution {
                 int size=q.size();
                 for(int i=0;i<size;i++){
                     int[] curr=q.poll();
-                int row=curr[0];
-                int col=curr[1];
+                    int row=curr[0];
+                    int col=curr[1];
                 //Down
                 if(row+1<m && grid[row+1][col]==1){
                     grid[row+1][col]=2;
