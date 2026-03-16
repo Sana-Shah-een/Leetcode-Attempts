@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+class Solution {
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        ArrayList<Integer> graph[]=new ArrayList[n];
+
+        for(int i=0;i<n;i++){
+            graph[i]=new ArrayList<>();
+        }
+        for(int[] e : edges){
+            graph[e[0]].add(e[1]);
+            graph[e[1]].add(e[0]);
+        }
+        boolean visited[]=new boolean[n];
+        return dfs(graph,source,destination,visited);
+    }
+    public boolean dfs(ArrayList<Integer> graph[],int curr,int dest,boolean visited[]){
+        if(curr==dest){
+            return true;
+        }
+        visited[curr]=true;
+        for(int i=0;i<graph[curr].size();i++){
+            int neighbour=graph[curr].get(i);
+
+            if(!visited[neighbour]){
+                if(dfs(graph,neighbour,dest,visited)){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+}
