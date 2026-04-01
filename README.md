@@ -38,6 +38,7 @@ Monday(16 Feb) ->
 | [0183-customers-who-never-order](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1321-restaurant-growth](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/1341-movie-rating) |
 | [3482-analyze-organization-hierarchy](https://github.com/Sana-Shah-een/Leetcode-Attempts/tree/master/3482-analyze-organization-hierarchy) |
 ## Array
 |  |
